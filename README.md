@@ -58,8 +58,6 @@
 ---
 
 <div align="center">
-
-<img src="https://img.icons8.com/color/144/jordan-circle.png" width="100" alt="Jordan Icon" />
 <br>
 <kbd><b> 🇯🇴 BASED IN JORDAN | BORN: 02/12/2001 🇯🇴 </b></kbd>
 
