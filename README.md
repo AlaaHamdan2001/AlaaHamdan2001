@@ -15,6 +15,7 @@
 <a href="https://wa.me/962780445193" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="mailto:hamdanalaa360@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/hamdan_3laa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.facebook.com/alaa.hamdan.357284/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://linkedin.com/in/alaa-hamdan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
@@ -58,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://i.ibb.co/3FJj3P6/jordan-flag.png" width="100" alt="Jordan Flag" />
+<img src="https://img.icons8.com/color/144/jordan-circle.png" width="100" alt="Jordan Icon" />
 <br>
 <kbd><b> 🇯🇴 BASED IN JORDAN | BORN: 02/12/2001 🇯🇴 </b></kbd>
 
