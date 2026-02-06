@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## 🌐 CONNECT WITH ME
+## 🌐 CONNECT WITH THE CORE
 
 <a href="https://wa.me/962780445193" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="mailto:hamdanalaa360@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -25,14 +25,14 @@
 
 ## 🛠 TECH STACK & SKILLS
 
-<a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/AI-00F5FF?style=for-the-badge&logo=openai&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Basics-00F5FF?style=for-the-badge&logo=openai&logoColor=black" />
 
 <br>
-Frontend | Backend | Algorithms | Data Structures | AI Basics
+<b>Frontend | Backend | Algorithms | Data Structures</b>
 
 </div>
 
@@ -41,7 +41,6 @@ Frontend | Backend | Algorithms | Data Structures | AI Basics
 <div align="center">
 
 ## 📚 CURRENT LEARNING
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=1500&pause=500&color=00F5FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Advanced+Data+Structures;Python+for+AI;Backend+Development;Database+Design" />
 
 </div>
@@ -50,9 +49,8 @@ Frontend | Backend | Algorithms | Data Structures | AI Basics
 
 <div align="center">
 
-## 📖 CURRENT STATUS
-
-> I am still learning and improving my skills in programming, algorithms, and artificial intelligence. 🚀
+## 📖 STATUS REPORT
+> "I am still learning and improving my skills in programming, algorithms, and artificial intelligence. 🚀"
 
 </div>
 
@@ -60,7 +58,7 @@ Frontend | Backend | Algorithms | Data Structures | AI Basics
 
 <div align="center">
 
-<img src="https://i.ibb.co/3FJj3P6/jordan-flag.png" width="80" alt="Jordan Flag" />
+<img src="https://i.ibb.co/3FJj3P6/jordan-flag.png" width="100" alt="Jordan Flag" />
 <br>
 <kbd><b> 🇯🇴 BASED IN JORDAN | BORN: 02/12/2001 🇯🇴 </b></kbd>
 
