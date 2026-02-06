@@ -32,13 +32,6 @@
 <a href="#"><img src="https://img.shields.io/badge/AI-00F5FF?style=for-the-badge&logo=openai&logoColor=white" /></a>
 
 <br>
-
-<!-- أيقونة الماوس المتوهجة -->
-<img src="https://i.imgur.com/zRZ5mB9.gif" alt="Glowing Mouse" width="60"/>
-<br>
-<small>Hover over the badges! 🖱️</small>
-
-<br>
 Frontend | Backend | Algorithms | Data Structures | AI Basics
 
 </div>
@@ -67,7 +60,7 @@ Frontend | Backend | Algorithms | Data Structures | AI Basics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/stevenliuyi/animated-flag-icon/master/flags/JO.gif" width="80" alt="Jordan Flag" />
+<img src="https://i.ibb.co/3FJj3P6/jordan-flag.png" width="80" alt="Jordan Flag" />
 <br>
 <kbd><b> 🇯🇴 BASED IN JORDAN | BORN: 02/12/2001 🇯🇴 </b></kbd>
 
